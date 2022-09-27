@@ -67,6 +67,20 @@ sns.boxplot(x= "Sales" ,data=df)
 
 ![image](https://user-images.githubusercontent.com/103166779/192566786-0967ade6-4290-4b51-8fe8-b7a5d4f80159.png)
 
+![image](https://user-images.githubusercontent.com/103166779/192568227-6c196cae-c432-4803-97bf-70be8367219f.png)
+
+![image](https://user-images.githubusercontent.com/103166779/192568541-dce03152-9a64-4df0-9370-29439fdaf952.png)
+
+![image](https://user-images.githubusercontent.com/103166779/192568820-9d9606b5-3577-48aa-a6c3-e85cb4d43832.png)
+
+![image](https://user-images.githubusercontent.com/103166779/192569052-7e4d19dc-44a6-4e08-92e6-87686b0ccf81.png)
+
+![image](https://user-images.githubusercontent.com/103166779/192569688-8f5479bb-ed59-41f0-b8cc-34552a355d4a.png)
+
+![image](https://user-images.githubusercontent.com/103166779/192569874-71b7ecfd-d01a-406d-b0b5-001dccf14d86.png)
+
+
+
 
 
 
