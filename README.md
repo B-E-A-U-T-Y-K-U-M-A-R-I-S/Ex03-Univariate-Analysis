@@ -55,3 +55,8 @@ plt.figure(figsize=(17,7))
 sns.boxplot(x= "Sales" ,data=df)
 ~~~
 */
+
+## OUTPUT:
+![image](https://user-images.githubusercontent.com/103166779/192562765-2c891074-90e4-4331-b909-98ed3e9a6868.png)
+
+
