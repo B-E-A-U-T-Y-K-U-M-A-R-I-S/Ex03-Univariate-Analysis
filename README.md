@@ -56,6 +56,9 @@ sns.boxplot(x= "Sales" ,data=df)
 ~~~
 */
 
+
+
+
 ## OUTPUT:
 ![image](https://user-images.githubusercontent.com/103166779/192563643-cc22e666-de3e-4d17-a087-b55405c93d58.png)
 
