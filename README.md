@@ -1,5 +1,5 @@
 # Ex03-Univariate-Analysis
-AIM
+## AIM
 To perform Univariate EDA on the given data set.
 
 ## Explanation
@@ -28,4 +28,26 @@ Use seaborn the bar graph comparison of data can be viewed.
 
 ## STEP 7
 Save the final data set into the file
+
 ## CODE
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+df=pd.read_csv("/content/SuperStore.csv")
+df.head()
+df.info()
+df.isnull().sum()
+df['Postal Code'] = df["Postal Code"].fillna(df['Postal Code'].mode()[0])
+df.isnull().sum()
+df.dtypes
+df.describe()
+sns.boxplot(x='Sales',data=df)
+sns.countplot(x='Sales',data=df)
+sns.distplot(df["Sales"])
+sns.histplot(x='Sales',data=df)
+df.skew()
+sns.displot(x="Sales",data=df)
+df.kurtosis()
+plt.figure(figsize=(17,7))
+sns.boxplot(x= "Sales" ,data=df)
