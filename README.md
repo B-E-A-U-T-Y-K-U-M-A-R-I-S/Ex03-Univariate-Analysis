@@ -30,6 +30,7 @@ Use seaborn the bar graph comparison of data can be viewed.
 Save the final data set into the file
 
 ## CODE
+/*
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -51,3 +52,4 @@ sns.displot(x="Sales",data=df)
 df.kurtosis()
 plt.figure(figsize=(17,7))
 sns.boxplot(x= "Sales" ,data=df)
+*/
