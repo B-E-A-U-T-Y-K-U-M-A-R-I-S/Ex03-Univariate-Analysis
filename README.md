@@ -80,7 +80,8 @@ sns.boxplot(x= "Sales" ,data=df)
 ![image](https://user-images.githubusercontent.com/103166779/192569874-71b7ecfd-d01a-406d-b0b5-001dccf14d86.png)
 
 
-
+## RESULT:
+Thus the program to perform EDA on the given data set is successfully executed.
 
 
 
